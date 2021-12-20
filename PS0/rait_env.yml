@@ -1,0 +1,13 @@
+name: rait_env
+channels:
+- menpo
+- defaults
+dependencies:
+- python=3.9
+- numpy
+- scipy
+- matplotlib
+- future
+- pip
+- pip:
+  - pygame
